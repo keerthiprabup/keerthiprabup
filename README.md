@@ -25,8 +25,6 @@ alt="_tr4c3" height="30" width="40" /></a>
 alt="_tr4c3" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/1033217966373863544" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
 alt="_tr4c3" height="30" width="40" /></a>
-
-  
 <a href="https://discordapp.com/users/1033217966373863544" target="blank"><img align="center" src="https://imgs.search.brave.com/T5kVHXItENHThBjYAzb06GAbHymAM7PV-3FCfsPiZIA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/dHlwLnVzL2ZpbGUv/Z21haWwuc3Zn.svg"
 alt="_tr4c3" height="30" width="40" /></a>
 </p>
