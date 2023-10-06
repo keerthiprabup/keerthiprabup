@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Aspiring Pentester @bi0s.pentest<br>📚 I'm currently learning Electrical and Computer Engineering at Amrita school of engineering, Amritapuri<br>🎯 Interested in:  Cloud security</p>
+<p align="left">✨ Aspiring Pentester @teambi0s<br>📚 I'm currently learning Electrical and Computer Engineering at Amrita school of engineering, Amritapuri<br>🎯 Interested in:  Cloud security</p>
 
 ###
 
