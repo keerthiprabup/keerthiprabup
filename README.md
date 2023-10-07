@@ -80,6 +80,7 @@ alt="_tr4c3" height="30" width="40" /></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="40" alt="unix logo"  />
+  ![unix logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg "unix")
 </div>
 
 ###
