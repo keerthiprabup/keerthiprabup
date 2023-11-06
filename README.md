@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Keerthi Prabu P and I'm working as a part of red teaming</p>
+<p align="left">I'm Keerthi Prabu P working as a pentester in part of red teaming</p>
 
 ###
 
