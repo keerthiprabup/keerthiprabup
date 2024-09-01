@@ -25,7 +25,7 @@ alt="_tr4c3" height="30" width="40" /></a>
 alt="_tr4c3" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/1033217966373863544" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
 alt="_tr4c3" height="30" width="40" /></a>
-<a href="mailto:keerthiprabup@gmail.com" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/mail-icon-2048x2048-525ey8hu.png"
+<a href="mailto:keerthiprabup@gmail.com" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG4EEXzO3cKUVMZWU15i57GWWJuZQPrtneKA"
 alt="_tr4c3" height="30" width="40" /></a>
 </p>
 
