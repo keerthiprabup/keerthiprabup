@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Pentester @teambi0s<br>📚Persuing my Electrical and Computer Engineering Bachelor degree at Amrita school of engineering, Amritapuri<br>🎯 Interested in:  Cloud security</p>
+<p align="left">✨Pentester @teambi0s<br>📚Persuing my Electrical and Computer Engineering Bachelor degree at Amrita school of engineering, Amritapuri<br>🎯 Interested in:  Cloud security</p>
 
 ###
 
