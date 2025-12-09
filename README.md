@@ -17,11 +17,10 @@
 <div align="center">
   
   [![GitHub followers](https://img.shields.io/github/followers/keerthiprabup?label=Followers&style=social)](https://github.com/keerthiprabup)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/keerthiprabup?label=Twitter&style=social)](https://twitter.com/keerthiprabup)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/KeerthiPrabuP1?label=Twitter&style=social)](https://x.com/KeerthiPrabuP1)
   
 </div>
 ---
-
 
 ## About Me
 
