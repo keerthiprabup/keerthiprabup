@@ -148,18 +148,6 @@ Amrita School of Engineering, Amritapuri (2024 - Pursuing)
 
 ---
 
-## 📈 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keerthiprabup&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keerthiprabup&layout=compact&theme=dark)
-
-</div>
-
----
-
 ## 🏆 Notable Highlights
 
 - **Red Team Lead** at India's premier cybersecurity team (bi0s)
@@ -181,16 +169,11 @@ Amrita School of Engineering, Amritapuri (2024 - Pursuing)
 
 ---
 
-## 📝 Philosophy
-
-*"Security is not about building walls; it's about understanding how attackers think. Quantum computing is not just about qubits; it's about reimagining computation. Full-stack development is not just about code; it's about creating meaningful experiences."*
-
----
 
 <div align="center">
 
 **Let's collaborate on innovative security solutions, quantum computing projects, and cutting-edge full-stack applications!**
 
 </div>
-```
+
 
