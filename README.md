@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # Tr4c3 - Keerthi Prabu P
 
@@ -8,11 +8,10 @@
 ![GitHub followers](https://img.shields.io/github/followers/keerthiprabup?style=flat-square)
 ![GitHub User's stars](https://img.shields.io/github/stars/keerthiprabup?style=flat-square)
 
-</div>
+</div> -->
 
----
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00FF41&width=600&lines=keerthiprabup;Security+Engineer+%7C+Red+Team+Lead;Quantum+Computing+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00FF41&width=600&lines=Keerthi+Prabu+P;Red+Teamer;Quantum+Computing+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
 </h1>
 
 <div align="center">
