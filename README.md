@@ -11,6 +11,18 @@
 </div>
 
 ---
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00FF41&width=600&lines=keerthiprabup;Security+Engineer+%7C+Red+Team+Lead;Quantum+Computing+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
+</h1>
+
+<div align="center">
+  
+  [![GitHub followers](https://img.shields.io/github/followers/keerthiprabup?label=Followers&style=social)](https://github.com/keerthiprabup)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/keerthiprabup?label=Twitter&style=social)](https://twitter.com/keerthiprabup)
+  
+</div>
+---
+
 
 ## About Me
 
