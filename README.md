@@ -67,15 +67,13 @@ Git • Docker • SQL • RESTful APIs
 |---------|-------------|-----------|
 | **Qwordle** | Quantum Wordle solver using Grover's Algorithm | Python, Qiskit |
 | **Quantum-Bench** | Quantum backend performance benchmarking | Python |
-| **Alt-F4-Nexus24** | Quantum computing research & experiments | Jupyter |
 
 ### Full-Stack Applications
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| **bi0s.in** | Official team bi0s website | TypeScript, Next.js, Tailwind |
-| **RideShare** | Ride-sharing platform with real-time features | JavaScript, Python, Flask |
+| **RideShare** | Ride-sharing platform with real-time features | JavaScript, Python, Flask, Postgres |
 | **Pentest Recruitment Portal** | Recruitment system for pentesters | HTML, CSS, JavaScript |
-| **Hunter** | Competitive programming platform | JavaScript, Node.js |
+
 
 ### Embedded Systems & IoT
 | Project | Description | Tech Stack |
