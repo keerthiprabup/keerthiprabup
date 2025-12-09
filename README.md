@@ -1,26 +1,19 @@
-<!-- <div align="center">
-
-# Tr4c3 - Keerthi Prabu P
-
-**Multi-disciplinary Developer | Cybersecurity & Red Team | Quantum Computing | Full-Stack Engineer**
-
-![Profile Views](https://komarev.com/ghpvc/?username=keerthiprabup&style=flat-square&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/keerthiprabup?style=flat-square)
-![GitHub User's stars](https://img.shields.io/github/stars/keerthiprabup?style=flat-square)
-
-</div> -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00FF41&width=600&lines=Keerthi+Prabu+P;Red+Teamer;Quantum+Computing+Enthusiast;Full-Stack+Developer" alt="Typing SVG"/>
 </h1>
 
+
+
+
 <div align="center">
-  
-  [![GitHub followers](https://img.shields.io/github/followers/keerthiprabup?label=Followers&style=social)](https://github.com/keerthiprabup)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/KeerthiPrabuP1?label=Twitter&style=social)](https://x.com/KeerthiPrabuP1)
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=keerthiprabup&style=flat-square&color=blue)
+  ![GitHub followers](https://img.shields.io/github/followers/keerthiprabup?style=flat-square)
+  ![GitHub User's stars](https://img.shields.io/github/stars/keerthiprabup?style=flat-square)
   
 </div>
----
+
 
 ## About Me
 
@@ -35,6 +28,7 @@ As an ELC student at **Amrita School of Engineering, Amritapuri**, I combine the
 - ⚡ **Competitive Programming** - Algorithm optimization and problem-solving
 
 ---
+
 
 ## 🛠️ Technical Expertise
 
@@ -134,7 +128,7 @@ Git • Docker • SQL • RESTful APIs
 ## 🎓 Education
 
 **Electrical and Computer Engineering**  
-Amrita School of Engineering, Amritapuri (2024 - Pursuing)
+Amrita School of Engineering, Amritapuri (2022 - Pursuing)
 
 **Achievements:**
 - Pull Shark Achievement on GitHub
