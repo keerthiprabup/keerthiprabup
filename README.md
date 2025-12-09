@@ -12,13 +12,13 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 I'm a passionate developer and red team professional with expertise spanning **cybersecurity, quantum computing, full-stack development, and embedded systems**. Currently leading pentesting initiatives at **team bi0s**, India's premier cybersecurity team.
 
-As an ECE student at **Amrita School of Engineering, Amritapuri**, I combine theoretical knowledge with practical expertise in:
+As an ELC student at **Amrita School of Engineering, Amritapuri**, I combine theoretical knowledge with practical expertise in:
 - 🔒 **Penetration Testing & Red Team Operations** - Leading team bi0s pentest division
-- 🔬 **Quantum Computing** - Grover's algorithm implementations and quantum circuit design
+- 🔬 **Quantum Computing** - Algorithm and quantum circuit design
 - 💻 **Full-Stack Development** - Modern web applications with TypeScript, React, and Next.js
 - 🌐 **Cloud & Network Security** - Azure AD, cloud infrastructure, network tools
 - 🤖 **Embedded Systems & IoT** - Fire detection, smart metering systems
